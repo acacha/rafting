@@ -10,7 +10,7 @@ Rafting sites:
 
 Best sites for Kayak an Rafting in Galicia are:
 
-:*[Kayak y rafting en Galicia](https://kayakgalicia.es)
+*[Kayak y rafting en Galicia](https://kayakgalicia.es)
 
 # Rios
 
